@@ -4,7 +4,7 @@
 const char* ssid     = "";
 const char* password = "";
 
-IPAddress server(192,168,1,102);  // numeric IP for Google (no DNS)
+IPAddress server(192,168,1,102);
 
 MB_TCPIP_Master MB_ET;
 
